@@ -1,0 +1,79 @@
+﻿ID,Task Name,Duration,Start,Finish,Predecessors,% Work Complete,Work,Resource Names
+2,Equiment Spadework 1,8 days,4/24/2023 8:00,5/3/2023 17:00,,100%,204.8 hrs,General Fitter
+3,Prep top cover and elbow  / Manhole cover removal,9 days,5/4/2023 8:00,5/16/2023 17:00,2,100%,230.4 hrs,Pipe Fitter
+4,Lift Cover and elbow,1 day,5/17/2023 8:00,5/17/2023 17:00,3,100%,0 hrs,Crane Operator
+5,Remove demister,4 days,5/18/2023 8:00,5/23/2023 17:00,"4,2",0%,102.4 hrs,General Fitter
+6,Set up ventilation,2 days,5/24/2023 8:00,5/25/2023 17:00,5,0%,25.6 hrs,General Fitter
+7,Gas test for CS entry,1 day,5/26/2023 8:00,5/26/2023 17:00,6,0%,8 hrs,Inspector
+8,Pre-cleaning inspection,2 days,5/29/2023 8:00,5/30/2023 17:00,7,0%,16 hrs,Inspector
+9,Clean Internal,16 days,5/31/2023 8:00,6/21/2023 17:00,8,0%,204.8 hrs,Pipe Fitter
+10,Post-cleaning inspection,1 day,6/22/2023 8:00,6/22/2023 17:00,9,0%,6.4 hrs,Inspector
+11,Replace demister with new,4 days,6/23/2023 8:00,6/28/2023 17:00,10,0%,102.4 hrs,General Fitter
+12,Powerbrush for UTG @ CML (HW),8 days,6/23/2023 8:00,7/4/2023 17:00,"8,10",0%,128 hrs,General Fitter
+13,UTG @ CML,8 days,7/5/2023 8:00,7/14/2023 17:00,12,0%,51.2 hrs,Inspector
+14,Lift top cover and elbow / manhole cover for reinstatement  (Using Crane),2 days,6/29/2023 8:00,6/30/2023 17:00,11,0%,16 hrs,Crane Operator
+15,Reinstate top cover and elbow / manhole cover / TFA,14 days,7/3/2023 8:00,7/20/2023 17:00,14,0%,448 hrs,Pipe Fitter
+16,Despade / TFA,12 days,7/21/2023 8:00,8/7/2023 17:00,15,0%,384 hrs,Pipe Fitter
+17,Remove NRV,3 days,4/24/2023 8:00,4/26/2023 17:00,,100%,96 hrs,Pipe Fitter
+18,Overhaul/ Testing,30 days,4/27/2023 8:00,6/7/2023 17:00,17,100%,192 hrs,Workshop Tech.
+19,Inspection,2 days,6/8/2023 8:00,6/9/2023 17:00,18,100%,16 hrs,Inspector
+20,Reinstall NRV,3 days,6/12/2023 8:00,6/14/2023 17:00,"19,17",0%,76.8 hrs,Pipe Fitter
+21,"LOTO in, fuse out & cable out",9 days,4/24/2023 8:00,5/4/2023 17:00,,0%,230.4 hrs,General Fitter
+22,Send to workshop,5 days,6/26/2023 8:00,6/30/2023 17:00,24,0%,128 hrs,General Fitter
+23,Spade in,9 days,5/5/2023 8:00,5/17/2023 17:00,21,0%,288 hrs,Pipe Fitter
+24,Remove pump,18 days,5/31/2023 8:00,6/23/2023 17:00,25,0%,460.8 hrs,General Fitter
+25,Decouple with motor,9 days,5/18/2023 8:00,5/30/2023 17:00,23,0%,230.4 hrs,General Fitter
+26,Overhaul at workshop,32 days,7/3/2023 8:00,8/15/2023 17:00,22,0%,256 hrs,Workshop Tech.
+27,Send back to site,5 days,8/16/2023 8:00,8/22/2023 17:00,26,0%,160 hrs,General Fitter
+28,Install pump,9 days,8/23/2023 8:00,9/4/2023 17:00,27,0%,288 hrs,General Fitter
+29,Alignment,27 days,8/23/2023 8:00,9/28/2023 17:00,27,0%,864 hrs,General Fitter
+30,Couple back with motor,9 days,9/5/2023 8:00,9/15/2023 17:00,28,0%,288 hrs,General Fitter
+31,Spade out,9 days,9/18/2023 8:00,9/28/2023 17:00,30,0%,288 hrs,Pipe Fitter
+32,"Fuse in, LOTO out",9 days,9/29/2023 8:00,10/11/2023 17:00,31,0%,288 hrs,General Fitter
+33,Equiment Spadework 2,8 days,4/24/2023 8:00,5/3/2023 17:00,,0%,204.8 hrs,Pipe Fitter
+34,Prep top cover and elbow  / Manhole cover removal,9 days,5/4/2023 8:00,5/16/2023 17:00,33,0%,230.4 hrs,Pipe Fitter
+35,Lift top cover and elbow / Manhole cover (Using Crane),1 day,5/17/2023 8:00,5/17/2023 17:00,34,0%,0 hrs,Crane Operator
+36,Remove demister,4 days,5/18/2023 8:00,5/23/2023 17:00,35,0%,102.4 hrs,General Fitter
+37,Set up ventilation,2 days,5/24/2023 8:00,5/25/2023 17:00,36,0%,25.6 hrs,General Fitter
+38,Gas test for CS entry,1 day,5/26/2023 8:00,5/26/2023 17:00,37,0%,8 hrs,Inspector
+39,Pre-cleaning inspection,2 days,5/29/2023 8:00,5/30/2023 17:00,38,0%,16 hrs,Inspector
+40,Clean Internal,16 days,5/31/2023 8:00,6/21/2023 17:00,39,0%,204.8 hrs,General Fitter
+41,Post-cleaning inspection,1 day,6/22/2023 8:00,6/22/2023 17:00,40,0%,6.4 hrs,Inspector
+42,Replace demister with new,4 days,6/23/2023 8:00,6/28/2023 17:00,41,0%,102.4 hrs,General Fitter
+43,Powerbrush for UTG @ CML (HW),8 days,6/29/2023 8:00,7/10/2023 17:00,42,0%,128 hrs,General Fitter
+44,UTG @ CML,8 days,7/11/2023 8:00,7/20/2023 17:00,43,0%,64 hrs,Inspector
+45,Lift top cover and elbow / manhole cover for reinstatement  (Using Crane),2 days,7/21/2023 8:00,7/24/2023 17:00,44,0%,16 hrs,Crane Operator
+46,Reinstate top cover and elbow / manhole cover / TFA,14 days,7/25/2023 8:00,8/11/2023 17:00,45,0%,448 hrs,Pipe Fitter
+47,Despade / TFA,12 days,8/14/2023 8:00,8/29/2023 17:00,46,0%,384 hrs,Pipe Fitter
+48,Equiment Spadework 3,8 days,4/24/2023 8:00,5/3/2023 17:00,,0%,204.8 hrs,Pipe Fitter
+49,Prep top cover and elbow  / Manhole cover removal,9 days,5/4/2023 8:00,5/16/2023 17:00,48,0%,230.4 hrs,Pipe Fitter
+50,Lift top cover and elbow / Manhole cover (Using Crane),1 day,5/17/2023 8:00,5/17/2023 17:00,49,0%,8 hrs,Crane Operator
+51,Remove demister,4 days,5/18/2023 8:00,5/23/2023 17:00,50,0%,102.4 hrs,General Fitter
+52,Set up ventilation,2 days,5/24/2023 8:00,5/25/2023 17:00,51,0%,25.6 hrs,General Fitter
+53,Gas test for CS entry,1 day,5/26/2023 8:00,5/26/2023 17:00,52,0%,8 hrs,Inspector
+54,Pre-cleaning inspection,2 days,5/29/2023 8:00,5/30/2023 17:00,53,0%,16 hrs,Inspector
+55,Clean Internal,16 days,5/31/2023 8:00,6/21/2023 17:00,54,0%,204.8 hrs,General Fitter
+56,Post-cleaning inspection,1 day,6/22/2023 8:00,6/22/2023 17:00,55,0%,6.4 hrs,Inspector
+57,Replace demister with new,4 days,6/23/2023 8:00,6/28/2023 17:00,56,0%,102.4 hrs,General Fitter
+58,Powerbrush for UTG @ CML (HW),8 days,6/29/2023 8:00,7/10/2023 17:00,57,0%,128 hrs,General Fitter
+59,UTG @ CML,8 days,7/11/2023 8:00,7/20/2023 17:00,58,0%,64 hrs,Inspector
+60,Lift top cover and elbow / manhole cover for reinstatement  (Using Crane),2 days,7/21/2023 8:00,7/24/2023 17:00,59,0%,16 hrs,Crane Operator
+61,Reinstate top cover and elbow / manhole cover / TFA,14 days,7/25/2023 8:00,8/11/2023 17:00,60,0%,448 hrs,Pipe Fitter
+62,Despade / TFA,12 days,8/14/2023 8:00,8/29/2023 17:00,61,0%,384 hrs,Pipe Fitter
+63,[Add08]NDT/ Inspection,2 days,6/22/2023 8:00,6/23/2023 17:00,64,0%,12.8 hrs,Inspector
+64,[Add08]Hotwork to install new v/v,18 days,5/29/2023 8:00,6/21/2023 17:00,65,0%,460.8 hrs,Welder
+65,"[Add08]Hotwork to remove N2 v/v (1"" 1108Y)",9 days,5/16/2023 8:00,5/26/2023 17:00,77,0%,230.4 hrs,Welder
+66,Post clean inspection,2 days,7/11/2023 8:00,7/12/2023 17:00,69,0%,16 hrs,Inspector
+67,Handback,1 day,8/9/2023 8:00,8/9/2023 17:00,78,0%,8 hrs,Operations
+68,UTG CML,4 days,5/15/2023 8:00,5/18/2023 17:00,75,0%,32 hrs,Inspector
+69,Sulphide SCC Insp by MT,3 days,7/6/2023 8:00,7/10/2023 17:00,70,0%,24 hrs,Inspector
+70,Power brush on weld seam,15 days,6/15/2023 8:00,7/5/2023 17:00,74,0%,384 hrs,General Fitter
+71,"[CRER] Remove sightglass, and replaced with magnetic Sightglass",22 days,6/15/2023 8:00,7/14/2023 17:00,74,0%,563.2 hrs,Pipe Fitter
+72,Boxup (incl TFA),9 days,7/14/2023 8:00,7/26/2023 17:00,73,0%,288 hrs,Pipe Fitter
+73,Final Inspection,3 days,7/11/2023 8:00,7/13/2023 17:00,69,0%,48 hrs,Inspector
+74,Clean internal and clear all nozzle tappings and ease all isolation valves,22 days,5/16/2023 8:00,6/14/2023 17:00,77,0%,563.2 hrs,General Fitter
+75,Open end cover and clean,6 days,5/5/2023 8:00,5/12/2023 17:00,76,0%,192 hrs,Pipe Fitter
+76,Spade,9 days,4/24/2023 8:00,5/4/2023 17:00,,0%,230.4 hrs,Pipe Fitter
+77,Preliminary inspection,1 day,5/15/2023 8:00,5/15/2023 17:00,75,0%,8 hrs,Inspector
+78,Despade + TFA,9 days,7/27/2023 8:00,8/8/2023 17:00,72,0%,288 hrs,Pipe Fitter
+79,,,,,,,,
